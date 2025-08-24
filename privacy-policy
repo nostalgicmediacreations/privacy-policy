@@ -1,1 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Tic Tac Toe: Nostalgic XO Game</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1, h2 {
+            color: #1976D2;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        a {
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p><strong>Effective Date:</strong> 24 Aug 2025</p>
 
+        <p>Thank you for playing <strong>Tic Tac Toe: Nostalgic XO Game</strong> (“the App”). Your privacy is important to us. This Privacy Policy explains how we handle user information.</p>
+
+        <h2>1. Information We Collect</h2>
+        <ul>
+            <li>We do not collect any personal information such as name, email, or phone number.</li>
+            <li>The App may collect non-personal information automatically through third-party services (like Google AdMob) such as:
+                <ul>
+                    <li>Device type, operating system, and country</li>
+                    <li>Usage data (e.g., gameplay statistics, crash reports)</li>
+                </ul>
+            </li>
+        </ul>
+
+        <h2>2. Third-Party Services</h2>
+        <p>We use trusted third-party services for app functionality and monetization:</p>
+        <ul>
+            <li><strong>Google AdMob</strong> (for ads)<br>
+            AdMob may use cookies or mobile ad identifiers to show personalized/non-personalized ads.<br>
+            Learn more here: <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">Google AdMob Privacy</a></li>
+        </ul>
+
+        <h2>3. How We Use Information</h2>
+        <ul>
+            <li>To improve gameplay experience</li>
+            <li>To display ads that help keep the App free</li>
+            <li>For analytics (non-personal, aggregated only)</li>
+        </ul>
+
+        <h2>4. Children’s Privacy</h2>
+        <p>This App is intended for general audiences. We do not knowingly collect data from children under 13. If you believe your child has provided personal data, please contact us and we will delete it.</p>
+
+        <h2>5. Data Security</h2>
+        <p>We value your privacy and take reasonable steps to protect non-personal data collected via third-party services.</p>
+
+        <h2>6. Changes to This Policy</h2>
+        <p>We may update this Privacy Policy from time to time. Updates will be reflected here with a new “Effective Date.”</p>
+
+        <h2>7. Contact Us</h2>
+        <p>If you have any questions about this Privacy Policy, you can contact us at:<br>
+        📧 <strong><a href="mailto:nostalgicmediacreations@gmail.com">nostalgicmediacreations@gmail.com</a></strong></p>
+    </div>
+</body>
+</html>
